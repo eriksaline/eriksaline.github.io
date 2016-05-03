@@ -10,8 +10,8 @@ title: Erik Saline
 email: erik.saline@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   All about my career!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://eriksaline.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
