@@ -4,12 +4,38 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Big companies rely on computers, so much that down-time can cost companies millions of dollars.  If your company cannot afford IT down-time than my experience can provide optimal IT performance.  I have worked as a Systems Engineer, Software Engineer and Project Manager in a variety of technology based industries.  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Including experience, planning is key part to any successful team.  13 years of Atlassian experience has allowed me to quickly and easily solve any IT problem with a great plan.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+17 years experience in enterprise application, database, automation and report design using a wide variety of computer languages, frameworks, software development kits, close/open source tools and methodologies.  
+
+Specialties: 
+
+Systems Administration
+Network Administration
+Database Administration
+Automation Administration
+Continous Integration Administration
+Atlassian Expert
+Atlassian Administration
+Atlassian Products
+Project Management
+JIRA
+Confluence
+Bamboo
+Stash/Bitbucket
+Python
+Mobile
+Xcode
+Android
+iOS
+Quality Assurance
+Open Source
+Wordpress
+Spring Framework
+IntelliJ
+WebStorm
+Java
+Java EE
+Mav
