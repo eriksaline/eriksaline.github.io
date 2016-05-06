@@ -33,6 +33,7 @@ Specialties:
 * Quality Assurance
 * Open Source
 * Wordpress
+* Drupal
 * Spring Framework
 * IntelliJ
 * WebStorm
