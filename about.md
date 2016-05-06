@@ -12,30 +12,30 @@ Including experience, planning is key part to any successful team.  13 years of 
 
 Specialties: 
 
-Systems Administration
-Network Administration
-Database Administration
-Automation Administration
-Continous Integration Administration
-Atlassian Expert
-Atlassian Administration
-Atlassian Products
-Project Management
-JIRA
-Confluence
-Bamboo
-Stash/Bitbucket
-Python
-Mobile
-Xcode
-Android
-iOS
-Quality Assurance
-Open Source
-Wordpress
-Spring Framework
-IntelliJ
-WebStorm
-Java
-Java EE
-Mav
+*Systems Administration
+*Network Administration
+*Database Administration
+*Automation Administration
+*Continous Integration Administration
+*Atlassian Expert
+*Atlassian Administration
+*Atlassian Products
+*Project Management
+*JIRA
+*Confluence
+*Bamboo
+*Stash/Bitbucket
+*Python
+*Mobile
+*Xcode
+*Android
+*iOS
+*Quality Assurance
+*Open Source
+*Wordpress
+*Spring Framework
+*IntelliJ
+*WebStorm
+*Java
+*Java EE
+*Maven
