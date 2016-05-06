@@ -16,6 +16,7 @@ Specialties:
 * Network Administration
 * Database Administration
 * Automation Administration
+* Developer Operations
 * Continous Integration Administration
 * Atlassian Expert
 * Atlassian Administration
