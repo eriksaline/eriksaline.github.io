@@ -18,7 +18,6 @@ Specialties:
 * Automation Administration
 * Developer Operations
 * Continous Integration Administration
-* Atlassian Expert
 * Atlassian Administration
 * Atlassian Products
 * Project Management
