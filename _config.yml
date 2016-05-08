@@ -9,10 +9,23 @@
 title: Erik Saline
 email: erik.saline@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  All about my me!
+ All about my me!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eriksaline.github.io" # the base hostname & protocol for your site
 github_username:  eriksaline
 
 # Build settings
 markdown: kramdown
+
+# Excluded files
+exclude:
+
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- TODO.md
+- LICENSE
+- eriksaline.github.io.iml

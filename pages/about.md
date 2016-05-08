@@ -19,7 +19,6 @@ Specialties:
 * Developer Operations
 * Continous Integration Administration
 * Atlassian Administration
-* Atlassian Products
 * Project Management
 * JIRA
 * Confluence
