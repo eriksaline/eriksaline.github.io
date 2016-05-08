@@ -17,6 +17,10 @@ github_username:  eriksaline
 # Build settings
 markdown: kramdown
 
+# Enable GitHub Favored Markdown
+kramdown:
+  input: GFM
+
 # Excluded files
 exclude:
 
