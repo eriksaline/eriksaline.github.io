@@ -25,7 +25,7 @@ date:   2016-05-03 11:40:11 -0700
 <i class="fa fa-binoculars fa-5x" aria-hidden="true"></i>
 
 <p>
-    What will the future llook like in 30 years?
+    What will the future look like in 30 years?
 </p>
 </div>
 
