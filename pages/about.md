@@ -33,7 +33,7 @@ Specialties:
 * iOS
 * Quality Assurance
 * Open Source
-* Wordpress
+* WordPress
 * Drupal
 * Spring Framework
 * IntelliJ
