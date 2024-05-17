@@ -20,6 +20,8 @@ Specialties:
 * Continuous Integration Administration
 * Atlassian Administration
 * Project Management
+* AWS Cloud
+* Terraform
 * JIRA
 * Confluence
 * Bamboo
