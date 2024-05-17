@@ -17,7 +17,7 @@ Specialties:
 * Database Administration
 * Automation Administration
 * Developer Operations
-* Continous Integration Administration
+* Continuous Integration Administration
 * Atlassian Administration
 * Project Management
 * JIRA
